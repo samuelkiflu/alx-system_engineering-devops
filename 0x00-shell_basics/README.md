@@ -1,14 +1,14 @@
-#0x00. Shell, basics
+# 0x00. Shell, basics
 
-##Task 1
+## Task 1
 
 * 0. Where am I?  
 
-##Objective
+## Objective
 
 Write a script that prints the absolute path name of the current working directory.
 
-##Requirements
+## Requirements
 
 * Allowed editors: vi, vim, emacs
 * All your scripts will be tested on Ubuntu 20.04 LTS
